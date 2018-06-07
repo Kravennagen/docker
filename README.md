@@ -8,7 +8,7 @@ Installer Docker
 
 Windows 10 pro ou entreprise obligatoire
 
-	[installation pour windows](https://store.docker.com/editions/community/docker-ce-desktop-windows)
+	installation pour [windows](https://store.docker.com/editions/community/docker-ce-desktop-windows)
   
 Mac OS X El Capitan 10.11 ou supérieur
 
